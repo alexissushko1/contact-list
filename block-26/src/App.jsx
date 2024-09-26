@@ -6,7 +6,6 @@ import "./App.css";
 export default function App() {
   const [selectedContactId, setSelectedContactId] = useState(null);
 
-  const banana = "apple";
   return (
     <>
       {selectedContactId ? (
