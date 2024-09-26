@@ -1,3 +1,5 @@
+//Worked on Contact List WS w/Joy, Kristen, Blake, Bertha, and Alexis
+
 import React from "react";
 import { useState } from "react";
 import ContactRow from "./ContactRow";
