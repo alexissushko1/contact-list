@@ -1,3 +1,5 @@
+//Worked on project with Joy, Kristen, David, Bertha, and Blake
+
 import { useState } from "react";
 import ContactList from "./Components/ContactList";
 import SelectedContact from "./Components/SelectedContact";
